@@ -1,8 +1,8 @@
-# P-CBM-2S
+# PhysGate-DTI
 
 Implementation of **Concept-Gated Multimodal Structural Fusion for Drug–Target Interaction Prediction**.
 
-P-CBM-2S combines ligand and protein graphs with frozen MolT5 and ProtT5 representations. Five physicochemical descriptors condition the pair representation through descriptor concatenation and residual gating. Auxiliary reconstruction supervises concept information, and exact Shapley analysis quantifies concept contributions through the gate.
+PhysGate-DTI combines ligand and protein graphs with frozen MolT5 and ProtT5 representations. Five physicochemical descriptors condition the pair representation through descriptor concatenation and residual gating. Auxiliary reconstruction supervises concept information, and exact Shapley analysis quantifies concept contributions through the gate.
 
 ## Repository contents
 
